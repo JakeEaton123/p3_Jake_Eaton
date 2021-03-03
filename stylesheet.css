@@ -1,0 +1,23 @@
+.pg1bodyborder {
+  max-width: 500px;
+  display: block;
+  margin: auto;
+} /* Sets the parameters for the image and paragraph in the about page */
+
+.pg1titleborder {
+  max-width: 300px;
+  display: block;
+  margin: auto;
+} /* Sets the parameters for the title in the about page */
+
+.pg2bodyborder {
+  max-width: 400px;
+  display: block;
+  margin: auto;
+} /* Sets the parameters for the sketches and paragraphs in the portfolio page */
+
+.pg2titleborder {
+  max-width: 150px;
+  display: block;
+  margin: auto;
+} /* Sets the parameters for the sketch titles in the porfolio page */
